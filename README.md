@@ -1,6 +1,6 @@
 # Tech Visuals 101
 
-![Tech Visuals 101](.github/banner-01.png)
+[![Tech Visuals 101](.github/banner-01.png)](https://blog.sysxplore.com)
 
 [First Steps with Linux](https://read.sysxplore.com/l/first-steps-with-linux?layout=profile) | [Newsletter](https://blog.sysxplore.com) | [Website](https://sysxplore.com) | [Twitter/X](https://twitter.com/sysxplore)
 
