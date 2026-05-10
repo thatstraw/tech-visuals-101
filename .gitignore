@@ -1,2 +1,43 @@
+# OS files
 .DS_Store
 **/.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editor and IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+*.bak
+*.orig
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Dependency and build output
+node_modules/
+dist/
+build/
+.cache/
+.parcel-cache/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Archives and generated bundles
+*.zip
+*.tar
+*.tar.gz
+*.tgz
