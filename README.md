@@ -1,5 +1,9 @@
 # Tech Visuals 101
 
+![Tech Visuals 101](.github/banner-01.png)
+
+[First Steps with Linux](https://read.sysxplore.com/l/first-steps-with-linux?layout=profile) | [Newsletter](https://blog.sysxplore.com) | [Website](https://sysxplore.com) | [Twitter/X](https://twitter.com/sysxplore)
+
 Learn developer tools, Linux, networking, DevOps, security, databases, APIs, and cloud concepts through visuals and simple explanations.
 
 This repository is a collection of visual cheat sheets and infographics for developers, sysadmins, DevOps engineers, security learners, and anyone who wants to understand modern computing concepts faster.
