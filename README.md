@@ -2,7 +2,12 @@
 
 [![Tech Visuals 101](.github/banner-01.png)](https://blog.sysxplore.com)
 
-[First Steps with Linux](https://read.sysxplore.com/l/first-steps-with-linux?layout=profile) | [Newsletter](https://blog.sysxplore.com) | [Website](https://sysxplore.com) | [Twitter/X](https://twitter.com/sysxplore)
+<p align="center">
+  <a href="https://read.sysxplore.com/l/first-steps-with-linux?layout=profile"><img src="https://img.shields.io/badge/First%20Steps%20with%20Linux-Read-1793D1?style=for-the-badge&logo=linux&logoColor=white" alt="First Steps with Linux"></a>
+  <a href="https://blog.sysxplore.com"><img src="https://img.shields.io/badge/Newsletter-Subscribe-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Newsletter"></a>
+  <a href="https://sysxplore.com"><img src="https://img.shields.io/badge/Website-Visit-2F855A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="https://twitter.com/sysxplore"><img src="https://img.shields.io/badge/Twitter%2FX-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X"></a>
+</p>
 
 Learn developer tools, Linux, networking, DevOps, security, databases, APIs, and cloud concepts through visuals and simple explanations.
 
