@@ -1,4 +1,4 @@
-# Tech Visuals 101
+# IT Visuals
 
 [![Tech Visuals 101](.github/banner-01.png)](https://blog.sysxplore.com)
 
